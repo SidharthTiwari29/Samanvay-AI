@@ -1,4 +1,4 @@
-# Samanvay-AI
+# Samanvay-ai
 🧠 Samanvay AI
 “Decide Smart. Live Better. Spend Less.”
 Samanvay AI is a decision intelligence system for daily life that helps users make better choices across shopping, travel, finance, health, and daily planning—by simply expressing intent instead of navigating multiple apps.
